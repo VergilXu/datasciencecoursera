@@ -20,3 +20,13 @@ a <- function (){
 }
 
 # 安装packages
+install.packages("data.table")
+install.packages("dplyr")
+install.packages("lubridate")
+install.packages("tidyr")
+install.packages("jsonlite")
+install.packages ("XML")
+install.packages("xlsx")
+install.packages("readxl")
+install.packages("plyr")
+install.packages("reshape2")
